@@ -9,4 +9,4 @@ Initially, we use  unsupervised  learning  methods in  order  to  visualize the 
 Then  we  use  two classification algorithms, Support Vector Machine (SVM) and Multi-Layer Perceptron (MLP), in order to classify the data.
 My report can be accessed here: https://xmassmx.github.io/GE-461-Fall-Detection/
 
-Note: Please stay away from plagiarism. This work is meant to be used as a guide only.
+Note: Please do not copy this work and stay away from plagiarism. The work in this repository is my solution and is meant to be used as a guide only.
