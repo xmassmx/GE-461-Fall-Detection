@@ -2,7 +2,7 @@
 
 Hi, 
 
-This repository contains my work for the first project of the GE-461: Introduction to Data Science course. 
+This repository contains my work for the fourth project of the GE-461: Introduction to Data Science course. 
 
 In this project, we are  implementing classification on sensor data in order to classify if there has been a fall action or a non-fall action. 
 Initially, we use  unsupervised  learning  methods in  order  to  visualize the dataset.
